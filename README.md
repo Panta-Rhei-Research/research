@@ -1,23 +1,54 @@
 # Research
 
-This repository is the public research workspace for **open notebooks, scripts, supplementary analyses, and exploratory materials**.
+This repository is the public research workspace of the **Panta Rhei Research Program**.
 
-It is the right place for research-oriented work that can happen in the open without being mistaken for the final public release surface.
+The Panta Rhei Research Program is an independent open research program dedicated to building a coherent theory of reality.
 
-## What lives here
+This repository is for public notebooks, scripts, import reports, data transforms, experiments, reproducibility checks, and exploratory supporting material. It is the right place for research-oriented work that can happen in the open without being mistaken for the final public release surface.
 
-- notebooks and computational experiments
-- reproducible scripts
-- supplementary analyses for released public material
-- exploratory topic folders intended to remain public
-- research-oriented issues and pull requests
+## What this repo is
+
+- public workspace for scripts and notebooks;
+- reproducibility and import reports;
+- exploratory analyses;
+- data transforms;
+- supporting experiments;
+- research-oriented issue threads.
+
+## What this repo is not
+
+- not the canonical publication layer -- use `publications`;
+- not the Lean formalization surface -- use `taulib`;
+- not the public website source -- use `site`;
+- not the general engagement hub -- use `community`;
+- not external validation of any result.
 
 ## Related public surfaces
 
+- Website / observatory: https://panta-rhei.site
+- Agenda: https://panta-rhei.site/program/research-agenda/
+- Corpus: https://panta-rhei.site/corpus/
+- Results: https://panta-rhei.site/results/
+- Verify: https://panta-rhei.site/verify/
 - Publications: https://github.com/Panta-Rhei-Research/publications
 - TauLib: https://github.com/Panta-Rhei-Research/taulib
-- Website: https://panta-rhei.site
 - Community: https://github.com/Panta-Rhei-Research/community
+- Public discussions: https://github.com/orgs/Panta-Rhei-Research/discussions
+
+## Engagement without endorsement
+
+We do not ask first for agreement.
+
+We ask for structured open-research engagement: careful reading, public questions, critique, reproducibility checks, domain review, correction, infrastructure contribution, and responsible communication.
+
+Participation does not imply endorsement of the framework. A reader may ask a question without accepting the theory. A reviewer may challenge a result without joining the program. A contributor may improve documentation, metadata, tooling, packaging, or formalization without endorsing any conclusion.
+
+## Verification note
+
+Repository artifacts make parts of the program inspectable. They do not by themselves establish empirical truth, bridge adequacy, semantic correspondence, peer review, or external scientific acceptance.
+
+For current release metrics and verification boundaries, see the Release Manifest:
+https://panta-rhei.site/verify/release-manifest/
 
 ## Contribution
 
@@ -25,9 +56,9 @@ Contributions are welcome.
 
 Good contributions here include:
 
-- improved notebooks
-- reproducible analysis scripts
-- carefully scoped exploratory folders
-- structured issue threads around concrete research questions
+- improved notebooks;
+- reproducible analysis scripts;
+- carefully scoped exploratory folders;
+- structured issue threads around concrete research questions.
 
 Start with `CONTRIBUTING.md`.
